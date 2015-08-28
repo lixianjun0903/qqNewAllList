@@ -1,0 +1,2 @@
+# qqNewAllList
+qqNewAllList补充完成qq列表展开搜索功能
